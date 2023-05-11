@@ -1,2 +1,2 @@
 # Temperatureconverter
-code alpha
+oasis infobyte
